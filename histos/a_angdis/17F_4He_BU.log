@@ -1,0 +1,1157 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.4)  6 JUN 2021 19:03
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**17F_4He_BU.tex
+(./17F_4He_BU.tex
+LaTeX2e <2018-04-01> patch level 5
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-1.cls
+Document Class: revtex4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revt
+ex4/ for documentation)
+ Copyright (c) 2009 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>.
+ltxutil[2010/07/25/20:33:00 4.1r utilities package (portions licensed from W. E
+. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 308.
+Class revtex4-1 Info: Repairing broken LaTeX eqnarray on input line 358.
+\eqncolsep=\skip41
+Class revtex4-1 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfoot
+note on input line 433.
+Class revtex4-1 Info: Repairing broken LateX \@sect on input line 755.
+\intertabularlinepenalty=\count80
+\@tbpen=\count81
+\@arstrutbox@hline=\box26
+Class revtex4-1 Info: Repairing broken LaTeX \@xbitor on input line 1786.
+Class revtex4-1 Info: Making \typeout \long on input line 2046.
+ltxfront[2010/07/25/20:33:00 4.1r frontmatter package (AO,DPC)]
+\c@affil=\count82
+\c@collab=\count83
+\absbox=\box27
+ltxgrid[2010/07/25/20:33:00 4.1r page grid package (portions licensed from W. E
+. Baxter web at superscript.com)]
+\c@linecount=\count84
+\output@latex=\toks14
+\box@size@1=\box28
+\box@size@2=\box29
+\@protection@box=\box30
+\@topmark@saved=\toks15
+\footins@saved=\box31
+\footins@recovered=\box32
+\column@recovered=\box33
+\pagesofar=\box34
+\footsofar=\box35
+\pagegrid@col=\count85
+Class revtex4-1 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and
+ \\  on input line 5578.
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count92
+\fbox@1=\box36
+\c@table=\count93
+\fbox@2=\box37
+\c@video=\count94
+\fbox@4=\box38
+\@bibdataout=\write3
+\widetext@top=\box39
+\widetext@bot=\box40
+Class revtex4-1 Info: Selecting society aps on input line 7542.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps4-1.rtx
+File: aps4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for docu
+mentation)
+Class revtex4-1 Info: RevTeX society APS selected on input line 31.
+)
+Class revtex4-1 Info: Selecting journal prc on input line 7544.
+Class revtex4-1 Info: APS journal PRC selected on input line 7545.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/aps12pt4-1.rtx
+File: aps12pt4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ for 
+documentation)
+Class revtex4-1 Info: RevTeX pointsize 12pt selected on input line 30.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen102
+)
+LaTeX Info: Redefining \text on input line 28.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box41
+\strutbox@=\box42
+\big@size=\dimen104
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks18
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks19
+\eqnshift@=\dimen105
+\alignsep@=\dimen106
+\tagshift@=\dimen107
+\tagwidth@=\dimen108
+\totwidth@=\dimen109
+\lineht@=\dimen110
+\@envbody=\toks20
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count107
+)
+Class revtex4-1 Info: Repairing natbib's \BibitemShut on input line 7549.
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex/revsymb4-1.sty
+Package: revsymb4-1 2010/07/25/20:33:00 4.1r (http://publish.aps.org/revtex4/ f
+or documentation)
+LaTeX Info: Redefining \frak on input line 95.
+LaTeX Info: Redefining \Bbb on input line 111.
+LaTeX Info: Redefining \REV@mathfrak on input line 119.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen113
+\ar@mcellbox=\box43
+\extrarowheight=\dimen114
+\NC@list=\toks23
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box44
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks24
+\verbatim@line=\toks25
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/04/05 v1.2c UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen115
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen116
+\subfiglabelskip=\skip54
+\c@subfigure=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@lotdepth=\count111
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup9
+\symitalic=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+Class revtex4-1 Info: Unrecognized array package. Please update this document c
+lass! (Proceeding with fingers crossed.) on input line 25.
+Class revtex4-1 Info: Robustifying \LaTeX's \boldmath command on input line 25.
+
+Class revtex4-1 Info: cite was not loaded (OK!) on input line 25.
+Class revtex4-1 Info: mcite was not loaded (OK!) on input line 25.
+Class revtex4-1 Info: multicol was not loaded (OK!) on input line 25.
+ (./17F_4He_BU.aux)
+\openout1 = `17F_4He_BU.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 25.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen117
+\scratchbox=\box45
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen118
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\openout3 = `17F_4He_BUNotes.bib'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+Package epstopdf Info: Source file: </home/juan/proyectos/pattpc_14O_alpha/twin
+sol.eps>
+(epstopdf)                    date: 2019-04-15 19:53:16
+(epstopdf)                    size: 6333120 bytes
+(epstopdf)             Output file: </home/juan/proyectos/pattpc_14O_alpha/twin
+sol-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-15 19:53:55
+(epstopdf)                    size: 235320 bytes
+(epstopdf)             Command: <repstopdf --outfile=/home/juan/proyectos/pattp
+c_14O_alpha/twinsol-eps-converted-to.pdf /home/juan/proyectos/pattpc_14O_alpha/
+twinsol.eps>
+(epstopdf)             \includegraphics on input line 75.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file /home/juan/proyectos/pattpc_14O_alpha/t
+winsol-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mo
+st version <1.5> allowed
+</home/juan/proyectos/pattpc_14O_alpha/twinsol-eps-converted-to.pdf, id=1, 1189
+.44376pt x 495.8525pt>
+File: /home/juan/proyectos/pattpc_14O_alpha/twinsol-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use /home/juan/proyectos/pattpc_14O_alpha/twinsol-eps-converted-to.pdf>
+Package pdftex.def Info: /home/juan/proyectos/pattpc_14O_alpha/twinsol-eps-conv
+erted-to.pdf  used on input line 75.
+(pdftex.def)             Requested size: 421.19714pt x 175.58624pt.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 76
+.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 76
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 76
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 76
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 76.
+Package epstopdf Info: Source file: <singles.eps>
+(epstopdf)                    date: 2021-06-06 18:40:05
+(epstopdf)                    size: 365200 bytes
+(epstopdf)             Output file: <singles-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:41:50
+(epstopdf)                    size: 104396 bytes
+(epstopdf)             Command: <repstopdf --outfile=singles-eps-converted-to.p
+df singles.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./singles-eps-converted-to.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<singles-eps-converted-to.pdf, id=2, 569.12625pt x 314.17375pt>
+File: singles-eps-converted-to.pdf Graphic file (type pdf)
+<use singles-eps-converted-to.pdf>
+Package pdftex.def Info: singles-eps-converted-to.pdf  used on input line 88.
+(pdftex.def)             Requested size: 229.32257pt x 126.59248pt.
+Package epstopdf Info: Source file: <coin.eps>
+(epstopdf)                    date: 2021-06-06 18:27:27
+(epstopdf)                    size: 77308 bytes
+(epstopdf)             Output file: <coin-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:41:50
+(epstopdf)                    size: 26892 bytes
+(epstopdf)             Command: <repstopdf --outfile=coin-eps-converted-to.pdf 
+coin.eps>
+(epstopdf)             \includegraphics on input line 89.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./coin-eps-converted-to.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<coin-eps-converted-to.pdf, id=3, 569.12625pt x 309.155pt>
+File: coin-eps-converted-to.pdf Graphic file (type pdf)
+<use coin-eps-converted-to.pdf>
+Package pdftex.def Info: coin-eps-converted-to.pdf  used on input line 89.
+(pdftex.def)             Requested size: 229.32257pt x 124.57024pt.
+Package epstopdf Info: Source file: <ad_70.eps>
+(epstopdf)                    date: 2021-06-06 16:44:25
+(epstopdf)                    size: 108244 bytes
+(epstopdf)             Output file: <ad_70-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:08:34
+(epstopdf)                    size: 16420 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_70-eps-converted-to.pdf
+ ad_70.eps>
+(epstopdf)             \includegraphics on input line 97.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_70-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_70-eps-converted-to.pdf, id=4, 361.35pt x 252.945pt>
+File: ad_70-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_70-eps-converted-to.pdf>
+Package pdftex.def Info: ad_70-eps-converted-to.pdf  used on input line 97.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_80.eps>
+(epstopdf)                    date: 2021-06-06 16:48:35
+(epstopdf)                    size: 108566 bytes
+(epstopdf)             Output file: <ad_80-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:08:34
+(epstopdf)                    size: 16513 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_80-eps-converted-to.pdf
+ ad_80.eps>
+(epstopdf)             \includegraphics on input line 98.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_80-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_80-eps-converted-to.pdf, id=5, 361.35pt x 252.945pt>
+File: ad_80-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_80-eps-converted-to.pdf>
+Package pdftex.def Info: ad_80-eps-converted-to.pdf  used on input line 98.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_90.eps>
+(epstopdf)                    date: 2021-06-06 16:53:31
+(epstopdf)                    size: 108382 bytes
+(epstopdf)             Output file: <ad_90-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:08:35
+(epstopdf)                    size: 16375 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_90-eps-converted-to.pdf
+ ad_90.eps>
+(epstopdf)             \includegraphics on input line 99.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_90-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_90-eps-converted-to.pdf, id=6, 361.35pt x 252.945pt>
+File: ad_90-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_90-eps-converted-to.pdf>
+Package pdftex.def Info: ad_90-eps-converted-to.pdf  used on input line 99.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_100.eps>
+(epstopdf)                    date: 2021-06-06 16:54:50
+(epstopdf)                    size: 108261 bytes
+(epstopdf)             Output file: <ad_100-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:08:35
+(epstopdf)                    size: 16372 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_100-eps-converted-to.pd
+f ad_100.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_100-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_100-eps-converted-to.pdf, id=7, 361.35pt x 252.945pt>
+File: ad_100-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_100-eps-converted-to.pdf>
+Package pdftex.def Info: ad_100-eps-converted-to.pdf  used on input line 100.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_110.eps>
+(epstopdf)                    date: 2021-06-06 17:00:12
+(epstopdf)                    size: 108393 bytes
+(epstopdf)             Output file: <ad_110-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:09:47
+(epstopdf)                    size: 16503 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_110-eps-converted-to.pd
+f ad_110.eps>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_110-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_110-eps-converted-to.pdf, id=8, 361.35pt x 252.945pt>
+File: ad_110-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_110-eps-converted-to.pdf>
+Package pdftex.def Info: ad_110-eps-converted-to.pdf  used on input line 101.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_120.eps>
+(epstopdf)                    date: 2021-06-06 16:59:47
+(epstopdf)                    size: 108059 bytes
+(epstopdf)             Output file: <ad_120-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:09:47
+(epstopdf)                    size: 16311 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_120-eps-converted-to.pd
+f ad_120.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_120-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_120-eps-converted-to.pdf, id=9, 361.35pt x 252.945pt>
+File: ad_120-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_120-eps-converted-to.pdf>
+Package pdftex.def Info: ad_120-eps-converted-to.pdf  used on input line 102.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_130.eps>
+(epstopdf)                    date: 2021-06-06 17:02:27
+(epstopdf)                    size: 108021 bytes
+(epstopdf)             Output file: <ad_130-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:38
+(epstopdf)                    size: 16094 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_130-eps-converted-to.pd
+f ad_130.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_130-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_130-eps-converted-to.pdf, id=10, 361.35pt x 252.945pt>
+File: ad_130-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_130-eps-converted-to.pdf>
+Package pdftex.def Info: ad_130-eps-converted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_140.eps>
+(epstopdf)                    date: 2021-06-06 17:04:25
+(epstopdf)                    size: 108049 bytes
+(epstopdf)             Output file: <ad_140-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:38
+(epstopdf)                    size: 16244 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_140-eps-converted-to.pd
+f ad_140.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_140-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_140-eps-converted-to.pdf, id=11, 361.35pt x 252.945pt>
+File: ad_140-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_140-eps-converted-to.pdf>
+Package pdftex.def Info: ad_140-eps-converted-to.pdf  used on input line 111.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_150.eps>
+(epstopdf)                    date: 2021-06-06 17:06:03
+(epstopdf)                    size: 107984 bytes
+(epstopdf)             Output file: <ad_150-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:38
+(epstopdf)                    size: 16079 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_150-eps-converted-to.pd
+f ad_150.eps>
+(epstopdf)             \includegraphics on input line 112.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_150-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_150-eps-converted-to.pdf, id=12, 361.35pt x 252.945pt>
+File: ad_150-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_150-eps-converted-to.pdf>
+Package pdftex.def Info: ad_150-eps-converted-to.pdf  used on input line 112.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_160.eps>
+(epstopdf)                    date: 2021-06-06 17:07:10
+(epstopdf)                    size: 108273 bytes
+(epstopdf)             Output file: <ad_160-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:39
+(epstopdf)                    size: 16117 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_160-eps-converted-to.pd
+f ad_160.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_160-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_160-eps-converted-to.pdf, id=13, 361.35pt x 252.945pt>
+File: ad_160-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_160-eps-converted-to.pdf>
+Package pdftex.def Info: ad_160-eps-converted-to.pdf  used on input line 113.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_170.eps>
+(epstopdf)                    date: 2021-06-06 17:09:10
+(epstopdf)                    size: 108463 bytes
+(epstopdf)             Output file: <ad_170-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:39
+(epstopdf)                    size: 16446 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_170-eps-converted-to.pd
+f ad_170.eps>
+(epstopdf)             \includegraphics on input line 114.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_170-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_170-eps-converted-to.pdf, id=14, 361.35pt x 252.945pt>
+File: ad_170-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_170-eps-converted-to.pdf>
+Package pdftex.def Info: ad_170-eps-converted-to.pdf  used on input line 114.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_180.eps>
+(epstopdf)                    date: 2021-06-06 17:13:27
+(epstopdf)                    size: 108005 bytes
+(epstopdf)             Output file: <ad_180-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:10:39
+(epstopdf)                    size: 16131 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_180-eps-converted-to.pd
+f ad_180.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_180-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_180-eps-converted-to.pdf, id=15, 361.35pt x 252.945pt>
+File: ad_180-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_180-eps-converted-to.pdf>
+Package pdftex.def Info: ad_180-eps-converted-to.pdf  used on input line 115.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_190.eps>
+(epstopdf)                    date: 2021-06-06 17:16:27
+(epstopdf)                    size: 108481 bytes
+(epstopdf)             Output file: <ad_190-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:20
+(epstopdf)                    size: 16438 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_190-eps-converted-to.pd
+f ad_190.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_190-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_190-eps-converted-to.pdf, id=16, 361.35pt x 252.945pt>
+File: ad_190-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_190-eps-converted-to.pdf>
+Package pdftex.def Info: ad_190-eps-converted-to.pdf  used on input line 123.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_200.eps>
+(epstopdf)                    date: 2021-06-06 17:18:10
+(epstopdf)                    size: 108015 bytes
+(epstopdf)             Output file: <ad_200-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:20
+(epstopdf)                    size: 16234 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_200-eps-converted-to.pd
+f ad_200.eps>
+(epstopdf)             \includegraphics on input line 124.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_200-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_200-eps-converted-to.pdf, id=17, 361.35pt x 252.945pt>
+File: ad_200-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_200-eps-converted-to.pdf>
+Package pdftex.def Info: ad_200-eps-converted-to.pdf  used on input line 124.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_210.eps>
+(epstopdf)                    date: 2021-06-06 17:19:17
+(epstopdf)                    size: 108322 bytes
+(epstopdf)             Output file: <ad_210-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:21
+(epstopdf)                    size: 16187 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_210-eps-converted-to.pd
+f ad_210.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_210-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_210-eps-converted-to.pdf, id=18, 361.35pt x 252.945pt>
+File: ad_210-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_210-eps-converted-to.pdf>
+Package pdftex.def Info: ad_210-eps-converted-to.pdf  used on input line 125.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_220.eps>
+(epstopdf)                    date: 2021-06-06 17:21:56
+(epstopdf)                    size: 107949 bytes
+(epstopdf)             Output file: <ad_220-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:21
+(epstopdf)                    size: 15942 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_220-eps-converted-to.pd
+f ad_220.eps>
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_220-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_220-eps-converted-to.pdf, id=19, 361.35pt x 252.945pt>
+File: ad_220-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_220-eps-converted-to.pdf>
+Package pdftex.def Info: ad_220-eps-converted-to.pdf  used on input line 126.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_230.eps>
+(epstopdf)                    date: 2021-06-06 17:24:15
+(epstopdf)                    size: 108307 bytes
+(epstopdf)             Output file: <ad_230-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:21
+(epstopdf)                    size: 16129 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_230-eps-converted-to.pd
+f ad_230.eps>
+(epstopdf)             \includegraphics on input line 127.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_230-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_230-eps-converted-to.pdf, id=20, 361.35pt x 252.945pt>
+File: ad_230-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_230-eps-converted-to.pdf>
+Package pdftex.def Info: ad_230-eps-converted-to.pdf  used on input line 127.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_240.eps>
+(epstopdf)                    date: 2021-06-06 17:25:50
+(epstopdf)                    size: 107958 bytes
+(epstopdf)             Output file: <ad_240-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:11:22
+(epstopdf)                    size: 15945 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_240-eps-converted-to.pd
+f ad_240.eps>
+(epstopdf)             \includegraphics on input line 128.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_240-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_240-eps-converted-to.pdf, id=21, 361.35pt x 252.945pt>
+File: ad_240-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_240-eps-converted-to.pdf>
+Package pdftex.def Info: ad_240-eps-converted-to.pdf  used on input line 128.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_250.eps>
+(epstopdf)                    date: 2021-06-06 17:27:52
+(epstopdf)                    size: 108242 bytes
+(epstopdf)             Output file: <ad_250-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:06
+(epstopdf)                    size: 16106 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_250-eps-converted-to.pd
+f ad_250.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_250-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_250-eps-converted-to.pdf, id=22, 361.35pt x 252.945pt>
+File: ad_250-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_250-eps-converted-to.pdf>
+Package pdftex.def Info: ad_250-eps-converted-to.pdf  used on input line 135.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_260.eps>
+(epstopdf)                    date: 2021-06-06 17:30:04
+(epstopdf)                    size: 107891 bytes
+(epstopdf)             Output file: <ad_260-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:06
+(epstopdf)                    size: 15933 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_260-eps-converted-to.pd
+f ad_260.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_260-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_260-eps-converted-to.pdf, id=23, 361.35pt x 252.945pt>
+File: ad_260-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_260-eps-converted-to.pdf>
+Package pdftex.def Info: ad_260-eps-converted-to.pdf  used on input line 136.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_270.eps>
+(epstopdf)                    date: 2021-06-06 17:32:10
+(epstopdf)                    size: 107489 bytes
+(epstopdf)             Output file: <ad_270-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:06
+(epstopdf)                    size: 15838 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_270-eps-converted-to.pd
+f ad_270.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_270-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_270-eps-converted-to.pdf, id=24, 361.35pt x 252.945pt>
+File: ad_270-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_270-eps-converted-to.pdf>
+Package pdftex.def Info: ad_270-eps-converted-to.pdf  used on input line 137.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_280.eps>
+(epstopdf)                    date: 2021-06-06 17:33:21
+(epstopdf)                    size: 107522 bytes
+(epstopdf)             Output file: <ad_280-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:07
+(epstopdf)                    size: 15752 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_280-eps-converted-to.pd
+f ad_280.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_280-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_280-eps-converted-to.pdf, id=25, 361.35pt x 252.945pt>
+File: ad_280-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_280-eps-converted-to.pdf>
+Package pdftex.def Info: ad_280-eps-converted-to.pdf  used on input line 138.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_290.eps>
+(epstopdf)                    date: 2021-06-06 17:34:58
+(epstopdf)                    size: 107635 bytes
+(epstopdf)             Output file: <ad_290-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:07
+(epstopdf)                    size: 15803 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_290-eps-converted-to.pd
+f ad_290.eps>
+(epstopdf)             \includegraphics on input line 139.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_290-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_290-eps-converted-to.pdf, id=26, 361.35pt x 252.945pt>
+File: ad_290-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_290-eps-converted-to.pdf>
+Package pdftex.def Info: ad_290-eps-converted-to.pdf  used on input line 139.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <ad_300.eps>
+(epstopdf)                    date: 2021-06-06 17:36:51
+(epstopdf)                    size: 107544 bytes
+(epstopdf)             Output file: <ad_300-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:12:08
+(epstopdf)                    size: 15552 bytes
+(epstopdf)             Command: <repstopdf --outfile=ad_300-eps-converted-to.pd
+f ad_300.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./ad_300-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ad_300-eps-converted-to.pdf, id=27, 361.35pt x 252.945pt>
+File: ad_300-eps-converted-to.pdf Graphic file (type pdf)
+<use ad_300-eps-converted-to.pdf>
+Package pdftex.def Info: ad_300-eps-converted-to.pdf  used on input line 140.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <enerd.eps>
+(epstopdf)                    date: 2021-06-06 17:46:19
+(epstopdf)                    size: 79745 bytes
+(epstopdf)             Output file: <enerd-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:13:35
+(epstopdf)                    size: 15040 bytes
+(epstopdf)             Command: <repstopdf --outfile=enerd-eps-converted-to.pdf
+ enerd.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./enerd-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<enerd-eps-converted-to.pdf, id=28, 361.35pt x 252.945pt>
+File: enerd-eps-converted-to.pdf Graphic file (type pdf)
+<use enerd-eps-converted-to.pdf>
+Package pdftex.def Info: enerd-eps-converted-to.pdf  used on input line 147.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+Package epstopdf Info: Source file: <enerdcm.eps>
+(epstopdf)                    date: 2021-06-06 17:54:25
+(epstopdf)                    size: 73693 bytes
+(epstopdf)             Output file: <enerdcm-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-06-06 18:13:51
+(epstopdf)                    size: 14802 bytes
+(epstopdf)             Command: <repstopdf --outfile=enerdcm-eps-converted-to.p
+df enerdcm.eps>
+(epstopdf)             \includegraphics on input line 148.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./enerdcm-eps-converted-to.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<enerdcm-eps-converted-to.pdf, id=29, 361.35pt x 252.945pt>
+File: enerdcm-eps-converted-to.pdf Graphic file (type pdf)
+<use enerdcm-eps-converted-to.pdf>
+Package pdftex.def Info: enerdcm-eps-converted-to.pdf  used on input line 148.
+(pdftex.def)             Requested size: 229.32257pt x 160.52565pt.
+No file 17F_4He_BU.bbl.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/juan/proyectos/pat
+tpc_14O_alpha/twinsol-eps-converted-to.pdf> <./singles-eps-converted-to.pdf> <.
+/coin-eps-converted-to.pdf>] [2 <./ad_70-eps-converted-to.pdf> <./ad_80-eps-con
+verted-to.pdf> <./ad_90-eps-converted-to.pdf> <./ad_100-eps-converted-to.pdf> <
+./ad_110-eps-converted-to.pdf> <./ad_120-eps-converted-to.pdf>] [3 <./ad_130-ep
+s-converted-to.pdf> <./ad_140-eps-converted-to.pdf> <./ad_150-eps-converted-to.
+pdf> <./ad_160-eps-converted-to.pdf> <./ad_170-eps-converted-to.pdf> <./ad_180-
+eps-converted-to.pdf>] [4 <./ad_190-eps-converted-to.pdf> <./ad_200-eps-convert
+ed-to.pdf> <./ad_210-eps-converted-to.pdf> <./ad_220-eps-converted-to.pdf> <./a
+d_230-eps-converted-to.pdf> <./ad_240-eps-converted-to.pdf>] [5 <./ad_250-eps-c
+onverted-to.pdf> <./ad_260-eps-converted-to.pdf> <./ad_270-eps-converted-to.pdf
+> <./ad_280-eps-converted-to.pdf> <./ad_290-eps-converted-to.pdf> <./ad_300-eps
+-converted-to.pdf>] [6 <./enerd-eps-converted-to.pdf> <./enerdcm-eps-converted-
+to.pdf>] (./17F_4He_BU.aux) ) 
+Here is how much of TeX's memory you used:
+ 5364 strings out of 492641
+ 74286 string characters out of 6131788
+ 142806 words of memory out of 5000000
+ 9125 multiletter control sequences out of 15000+600000
+ 21749 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,5n,29p,336b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/bas
+e/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
+es/utmri8a.pfb>
+Output written on 17F_4He_BU.pdf (6 pages, 543467 bytes).
+PDF statistics:
+ 411 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
+

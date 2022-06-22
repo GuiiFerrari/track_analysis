@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -pthread -std=c++17 -m64 -I/home/ferrari/root/include -std=c++17 -pthread -Wno-deprecated-declarations -shared -Wl,-soname,libpATTPClibSP.so -o libpATTPClibSP.so CMakeFiles/pATTPClibSP.dir/src/mlesac.cc.o CMakeFiles/pATTPClibSP.dir/src/ransac.cc.o   -L/home/ferrari/work/lib  -L/home/ferrari/root/lib 

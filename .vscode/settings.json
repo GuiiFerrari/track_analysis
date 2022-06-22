@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "AnaClass_protons.C": "cpp",
+        "locale": "cpp",
+        "AnaClass.C": "cpp",
+        "AnaClass2.C": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}

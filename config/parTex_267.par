@@ -1,0 +1,16 @@
+GasPressure         350   	# Torr
+DriftVelocity       2.382	# mm, driftvelocity times sampling time [vd*dt]
+PosZoffset          140.0	# mm
+EIonize             15.603	# eV,  Ionization energy of gas 
+TimePerBin	    40.0	# 40 ns per bin, SamplingRate 25 MHz
+DiffL               0.63	# Longitudal coefficient of diffusion [mm/cm^0.5]   
+DiffT               1.25	# Transverse coefficient of diffusion [mm/cm^0.5]   
+Gain                1.50	# Gain of MM   
+MaxRange            500.0	# mm   
+E_PID               1.50.0	# Energy in IC    
+A0                  4.42368     #  +/- 0.3826  Energy range fit, E=a0+a1R**0.5+a2R**0.33     
+A1                  3.24584     #  +/- 0.1041       
+A2                  -5.46764    #  +/- 0.3137       
+Beam_ekin           33.56       # Beam kinetic energy
+Edead               13.87      # Energy loss in dead volume
+TB0		    407		# Entrance Time bucket

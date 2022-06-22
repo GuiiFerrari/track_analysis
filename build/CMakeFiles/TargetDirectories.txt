@@ -1,0 +1,4 @@
+/home/ferrari/work/build/CMakeFiles/pATTPClibSP.dir
+/home/ferrari/work/build/CMakeFiles/pATTPCexe.dir
+/home/ferrari/work/build/CMakeFiles/edit_cache.dir
+/home/ferrari/work/build/CMakeFiles/rebuild_cache.dir
