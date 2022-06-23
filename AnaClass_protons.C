@@ -198,11 +198,23 @@ void AnaClass_protons::Loop(const TString &st)
 	TH1F *hdE = new TH1F("hdE", "hdE", 300, 0, 0);
 	TH1F *hTheta = new TH1F("hTheta", "hTheta", 180, 0, 180);
 	TH1F *hLength = new TH1F("hLength", "hLength", 180, 0, 0);
-	TH2F *hTvsL = new TH2F("hTvsL", "hTvsL", 180, 0, 180, 512, 0, 500);
-	TH2F *hTvsLCoin = new TH2F("hTvsLCoin", "hTvsL_Coin", 180, 0, 180, 512, 0, 500);
-	TH2F *hTvsCh = new TH2F("hTvsCh", "hTvsCh", 180, 0, 180, 512, 0, 4e3);
+	TH2F *hTvsL = new TH2F("Comprimento (mm) vs Angulo (graus)",
+						   "Comprimento (mm) vs Angulo (graus)", 180, 0, 180, 512, 0, 500);
+	hTvsL->GetXaxis()->SetTitle("Angulo (graus)");
+	hTvsL->GetYaxis()->SetTitle("Comprimento (mm)");
+	TH2F *hTvsLCoin = new TH2F("Comprimento (mm) vs Angulo (graus) (coinc)",
+							   "Comprimento (mm) vs Angulo (graus)", 180, 0, 180, 512, 0, 500);
+	hTvsLCoin->GetXaxis()->SetTitle("Angulo (graus)");
+	hTvsLCoin->GetYaxis()->SetTitle("Comprimento (mm)");
+	TH2F *hTvsCh = new TH2F("Carga vs Angulo (graus)",
+							"Carga vs Angulo (graus)", 180, 0, 180, 512, 0, 4e3);
+	hTvsCh->GetXaxis()->SetTitle("Angulo (graus)");
+	hTvsCh->GetYaxis()->SetTitle("Carga");
 	TH2F *hLvsCh_hit = new TH2F("LvsCh_hit", "LvsCh_hit", 300, 0, 500, 512, 0, 2000);
-	TH2F *hLvsCh = new TH2F("LvsCh", "LvsCh", 300, 0, 500, 512, 0, 2.5e5);
+	TH2F *hLvsCh = new TH2F("Carga vs Comprimento (mm)",
+							"Carga vs Comprimento (mm)", 300, 0, 500, 512, 0, 2.5e5);
+	hLvsCh->GetXaxis()->SetTitle("Comprimento (mm)");
+	hLvsCh->GetYaxis()->SetTitle("Carga");
 	TH2F *hChvsAlpha = new TH2F("ChvsAlpha", "ChvsAlpha", 500, 0, 16e4, 512, 0, 6000);
 	TH1F *hNliers_eve = new TH1F("Nliers_eve", "Nliers_eve", 512, 0, 0);
 	TH1F *hChproj = new TH1F("Chproj", "Chproj", 500, 0, 6e4);
@@ -238,7 +250,7 @@ void AnaClass_protons::Loop(const TString &st)
 
 	int contador = 0;
 	double thetaMin = 0;
-	double step_theta = 4.0;
+	double step_theta = 4.0; // in degrees
 	double step_thetaInt = 5.0;
 	double rangeMin = 0;
 	double step_range = 10.0; // 20 cm
@@ -498,18 +510,19 @@ void AnaClass_protons::Loop(const TString &st)
 			// for(int w=0; w<Trigg_T->size(); w++ ){
 			// if(Trigg_T->size()==1) continue;
 			TVector3 TraLength = lastP - theVertex;
-
+			// Função abaixo verifica se o ponto (comprimento, carga * ganho)
+			// está dentro da região de corte
 			if (!CUTCharge->IsInside(TraLength.Mag(), gain * Total_charge->at(j)))
 				continue;
 			if (CUTBeamCh4->IsInside(TraLength.Mag(), gain * Total_charge->at(j) / Num_inliers->at(j)))
 				continue; // quitar el beam scattered
 			if (CUTBeam->IsInside(angle, TraLength.Mag()))
 				continue; // quitar el beam scattered
-			// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
+			//////// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
 			if (vertexpointZ > 30 && vertexpointZ < 70 && angle > 10 && angle < 100)
 				continue; // quitar un alfa elastic que sale del volumen
 
-			// if(angle<20) continue; //para seleccionar protones y quitar beam
+			//////// if(angle<20) continue; //para seleccionar protones y quitar beam
 			if (angle < 5 || angle > 175)
 				continue; // para quitar fits paralelos al beam
 
