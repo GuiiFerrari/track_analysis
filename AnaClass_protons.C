@@ -518,13 +518,13 @@ void AnaClass_protons::Loop(const TString &st)
 				continue; // quitar el beam scattered
 			if (CUTBeam->IsInside(angle, TraLength.Mag()))
 				continue; // quitar el beam scattered
-			//////// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
+			// //////// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
 			if (vertexpointZ > 30 && vertexpointZ < 70 && angle > 10 && angle < 100)
 				continue; // quitar un alfa elastic que sale del volumen
 
 			//////// if(angle<20) continue; //para seleccionar protones y quitar beam
-			// if (angle < 5 || angle > 175)
-			// 	continue; // para quitar fits paralelos al beam
+			if (angle < 5 || angle > 175)
+				continue; // para quitar fits paralelos al beam
 
 			proton_flag = true;
 
