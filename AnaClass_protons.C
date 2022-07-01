@@ -157,8 +157,14 @@ void AnaClass_protons::Loop(const TString &st)
 	TFile *fcut3 = new TFile("cutbeamCh3.root");
 	TCutG *CUTBeamCh = (TCutG *)fcut3->Get("cutbeamCh3");
 
-	TFile *fcut4 = new TFile("cutbeamCh4.root");
-	TCutG *CUTBeamCh4 = (TCutG *)fcut4->Get("cutbeamCh4");
+	// TFile *fcut4 = new TFile("cutbeamCh4.root");
+	// TCutG *CUTBeamCh4 = (TCutG *)fcut4->Get("cutbeamCh4");
+
+	TFile *fcut4 = new TFile("cut_den.root");
+	TCutG *CUTBeamCh4 = (TCutG *)fcut4->Get("cut_den");
+
+	TFile *fcut_den2 = new TFile("cut_den_up.root");
+	TCutG *CUTBeam_den2 = (TCutG *)fcut_den2->Get("cut_den_up");
 
 	file = new TFile(outfile.c_str(), "recreate");
 
@@ -515,9 +521,12 @@ void AnaClass_protons::Loop(const TString &st)
 			if (!CUTCharge->IsInside(TraLength.Mag(), gain * Total_charge->at(j)))
 				continue;
 			if (CUTBeamCh4->IsInside(TraLength.Mag(), gain * Total_charge->at(j) / Num_inliers->at(j)))
-				continue; // quitar el beam scattered
-			if (CUTBeam->IsInside(angle, TraLength.Mag()))
-				continue; // quitar el beam scattered
+				continue; // quitar el beam scattered | meu cut de densidade.
+			// Abaixo meu cut da parte de cima
+			// if (CUTBeam_den2->IsInside(TraLength.Mag(), gain * Total_charge->at(j) / Num_inliers->at(j)))
+			//	continue;
+			// if (CUTBeam->IsInside(angle, TraLength.Mag()))
+			// 	continue; // quitar el beam scattered
 			// //////// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
 			if (vertexpointZ > 30 && vertexpointZ < 70 && angle > 10 && angle < 100)
 				continue; // quitar un alfa elastic que sale del volumen
