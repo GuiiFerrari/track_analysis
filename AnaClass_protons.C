@@ -227,8 +227,15 @@ void AnaClass_protons::Loop(const TString &st)
 	TH2F *hTh_Zvert = new TH2F("Th_Zvert", "Th_Zvert", 300, -50, 600, 180, 0, 180);
 	TH1F *hEprotons = new TH1F("En_protons", "En_protons", 50, 0, 500);
 	TH1F *hNTracks = new TH1F("NTracks", "NTracks", 20, 0, 20);
+	TH2D *comp_numpontos = new TH2D("comp_numpontos", "", 512, 0, 500, 200, 0, 200);
+	comp_numpontos->GetXaxis()->SetTitle("Comprimento (mm)");
+	comp_numpontos->GetYaxis()->SetTitle("Numero de pontos");
+	comp_numpontos->GetXaxis()->SetTitleSize(0.07);
+	comp_numpontos->GetYaxis()->SetTitleSize(0.07);
+	// comp_numpontos->GetXaxis()->SetOffset(0.75);
 
 	for (int i = 0; i < 50; i++)
+
 	{
 		int w = i * 10;
 		thetaHisto[i] = new TH1F(Form("Theta_hist_%d", w), "", 45, 0, 180);
@@ -524,7 +531,7 @@ void AnaClass_protons::Loop(const TString &st)
 				continue; // quitar el beam scattered | meu cut de densidade.
 			// Abaixo meu cut da parte de cima
 			// if (CUTBeam_den2->IsInside(TraLength.Mag(), gain * Total_charge->at(j) / Num_inliers->at(j)))
-			//	continue;
+			// 	continue;
 			// if (CUTBeam->IsInside(angle, TraLength.Mag()))
 			// 	continue; // quitar el beam scattered
 			// //////// if(CUTBeamCh->IsInside(angle,Total_charge->at(j)*gainAlfas/Num_inliers->at(j))) continue;	//quitar el beam scattered
@@ -541,7 +548,7 @@ void AnaClass_protons::Loop(const TString &st)
 			double eLoss_reco = tagraph->Eval(vertexpointZ);
 			// cout<<vertexpointZ<<"  "<<eLoss_reco<<endl;
 			double Ebeam = 34.76 - eLoss_reco;
-
+			comp_numpontos->Fill(TraLength.Mag(), (double)Num_inliers->at(j));
 			hTvsL->Fill(angle, TraLength.Mag());
 			hTvsCh->Fill(angle, Total_charge->at(j) * gainAlfas / Num_inliers->at(j));
 			hLength->Fill(TraLength.Mag());
@@ -654,9 +661,16 @@ void AnaClass_protons::Loop(const TString &st)
 			double eLoss_reco = tagraph->Eval(vertexpointZ);
 			// cout<<vertexpointZ<<"  "<<eLoss_reco<<endl;
 			double Ebeam = 34.76 - eLoss_reco;
-
+			// std::cout << st;
 			if (coincidences == 1)
+			{
 				hTvsLCoin->Fill(angle, TraLength.Mag());
+				if (st == "scattering_events_17F_255.root")
+				{
+					// std::cout << jentry << "\n";
+					// comp_numpontos->Fill(TraLength.Mag(), (double)Num_inliers->at(j));
+				}
+			}
 			tracks_filter3 = coincidences + 1;
 
 			int ThetaBin = TMath::Floor((angle - thetaMin) / step_theta);
@@ -843,6 +857,7 @@ void AnaClass_protons::Loop(const TString &st)
 	hpid->Write();
 	hpid2->Write();
 	hpid3->Write();
+	comp_numpontos->Write();
 	file->cd("Th_zprof");
 	for (int i = 0; i < 50; i++)
 	{
